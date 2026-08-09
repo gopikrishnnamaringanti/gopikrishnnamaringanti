@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gopi%20Krishnna%20Maringanti&fontSize=42&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=Systems%20Software%20Engineer%20%7C%20Java%20Full-Stack%20%7C%20AI%2FML%20%26%20Quantum%20Computing&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gopi%20Krishnna%20Maringanti&fontSize=38&fontColor=00F0FF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -27,16 +27,12 @@ engineer:
   role: "Systems Software Engineer @ TCS"
   stack: [Java, Spring Boot, Angular, REST, JDBC]
   research: ["Quantum Computing", "AI/ML", "BERT Transformers"]
-  currently_working_on:
-    - Quantum-classical hybrid models (QCNN + ResNet) for medical imaging
-    - RAG-based LLM applications (LangChain, FAISS, OpenAI)
   currently_learning:
     - Bridging AI/ML with Quantum Computing
     - Pursuing new certifications
   fun_fact: "Plays the flute 🎶 when not debugging code"
 ```
 
-- 🔭 I'm currently working on **quantum-classical hybrid models (QCNN + ResNet)** for medical imaging, and **RAG-based LLM applications**
 - 🌱 I'm currently learning to **bridge AI/ML and Quantum Computing** — while working toward more certifications
 - 🏆 Runner-Up, **TCS AI Fridays Hackathon** (15+ teams) — built an AI expense intelligence platform
 - 🧬 Co-author on published research: *Quantum-Enhanced Brain Tumour Prediction* (JEEEMI, 2025)
@@ -51,23 +47,40 @@ engineer:
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" height="48"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" height="48"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" height="48"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="SQL" height="48"/>
 
 **Frameworks & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,angular,react,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" height="48"/>
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" title="Angular" height="48"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" title="REST APIs" height="48"/>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" height="48"/>
 
 **Databases & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,vscode,eclipse&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" height="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" height="48"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" height="48"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" height="48"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" height="48"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" height="48"/>
+<img src="https://skillicons.dev/icons?i=eclipse&theme=dark" title="Eclipse" height="48"/>
 
 **AI/ML & Quantum**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/-Qiskit-0f2027?style=for-the-badge&logo=qiskit&logoColor=6929C4" />
-<img src="https://img.shields.io/badge/-LangChain-0f2027?style=for-the-badge&logo=langchain&logoColor=1C3C3C" />
-<img src="https://img.shields.io/badge/-Hugging%20Face-0f2027?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
-<img src="https://img.shields.io/badge/-FAISS-0f2027?style=for-the-badge&logo=meta&logoColor=00F0FF" />
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow" height="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch" height="48"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" title="NumPy" height="48"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" title="Scikit-learn" height="48"/>
+<img src="https://cdn.simpleicons.org/qiskit/6929C4" title="Qiskit" height="48"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" title="LangChain" height="48"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" title="Hugging Face" height="48"/>
+<img src="https://cdn.simpleicons.org/meta/0668E1" title="FAISS (Meta AI)" height="48"/>
 
 </div>
 
@@ -77,7 +90,7 @@ engineer:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Quantum-Enhanced Brain Tumour Prediction
 Hybrid **QCNN + ResNet** model processing 3D MRI volumes — boosted prediction accuracy from 84–87% to **92%**, using quantum superposition & entanglement to forecast tumour progression.
@@ -87,7 +100,7 @@ Hybrid **QCNN + ResNet** model processing 3D MRI volumes — boosted prediction 
 📄 *Published — JEEEMI, 2025*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 AI Expense Intelligence Platform
 **RAG-powered** finance assistant — Flask API streaming via SSE, FAISS vector search, LangChain + OpenAI LLMs, React frontend.
@@ -99,7 +112,7 @@ Hybrid **QCNN + ResNet** model processing 3D MRI volumes — boosted prediction 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💬 NLP Comment Clustering Dashboard
 Spam detection & semantic clustering of live YouTube comments using **BERT embeddings**, with Selenium scraping + SSE-streamed Flask/React dashboard. Cut session handling time by **20%**.
@@ -109,7 +122,7 @@ Spam detection & semantic clustering of live YouTube comments using **BERT embed
 📄 *Accepted — Pertanika Journal*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ AI-Assisted Programming Language
 Custom **Lexer, Parser & Interpreter** for a Python-like language with AI-based prompt-to-code generation — compiles in under 1 second.
@@ -124,32 +137,48 @@ Custom **Lexer, Parser & Interpreter** for a Python-like language with AI-based 
 
 ## 🏅 Certifications & Achievements
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Microsoft%20Certified-SQL%20AI%20Developer%20Associate%20(DP--800)-0f2027?style=for-the-badge&logo=microsoft&logoColor=00A4EF" />
-<br/>
-<img src="https://img.shields.io/badge/Claude%20Certified-Developer%20Foundations%20(CCDV--F)-0f2027?style=for-the-badge&logo=anthropic&logoColor=D97757" />
-<br/>
-<img src="https://img.shields.io/badge/NPTEL-IoT%20%7C%20Elite%20%2B%20Gold%20%7C%20Top%203%25-0f2027?style=for-the-badge&logo=googlescholar&logoColor=00F0FF" />
-<br/>
-<img src="https://img.shields.io/badge/Smart%20Interviews-Smart%20Coder%20Gold-0f2027?style=for-the-badge&logo=codeforces&logoColor=00F0FF" />
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Microsoft%20Certified-SQL%20AI%20Developer%20Associate%20(DP--800)-0f2027?style=for-the-badge&logo=microsoft&logoColor=00A4EF" /></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Claude%20Certified-Developer%20Foundations%20(CCDV--F)-0f2027?style=for-the-badge&logo=anthropic&logoColor=D97757" /></td>
+</tr>
+<tr>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/NPTEL-IoT%20%7C%20Elite%20%2B%20Gold%20%7C%20Top%203%25-0f2027?style=for-the-badge&logo=googlescholar&logoColor=00F0FF" /></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Smart%20Interviews-Smart%20Coder%20Gold-0f2027?style=for-the-badge&logo=codeforces&logoColor=00F0FF" /></td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
 
-## 📊 GitHub Analytics
+## 💼 Experience & Publications
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gopikrishnnamaringanti&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f2027&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gopikrishnnamaringanti&theme=dark&hide_border=true&background=0f2027&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%"/>
+**Systems Software Engineer, Digital — Full Stack Developer (Java) & Trainee Mentor**
+*Tata Consultancy Services, Hyderabad — Jan 2026 to Present*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopikrishnnamaringanti&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f2027&title_color=00F0FF&text_color=c9d1d9" width="48%"/>
+- Mentored 100+ trainees in Java full-stack dev, DAO/Entity/BO patterns, Python OOPs, Git, and system integration
+- Selected to mentor TCS's Java 2.0 pilot batch, guiding 7+ teams through full SDLC — BRDs, wireframes, JUnit testing
+- Built an AI expense intelligence platform (RAG + Flask + FAISS + LangChain) — 🏆 Runner-Up, TCS AI Fridays Hackathon
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopikrishnnamaringanti&theme=react-dark&hide_border=true&bg_color=0f2027&color=00F0FF&line=00F0FF&point=ffffff" width="98%"/>
+</td>
+<td width="40%" valign="top">
 
-</div>
+**📄 Publications**
+
+- *Quantum-Enhanced Brain Tumour Prediction Framework* — JEEEMI, 2025
+- *NLP-Driven Comment Clustering* — Accepted, Pertanika Journal
+
+**🎓 Education**
+
+VNR Vignana Jyothi Institute of Engineering and Technology
+B.Tech CSE, GPA 8.49/10
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
 
@@ -166,25 +195,19 @@ Custom **Lexer, Parser & Interpreter** for a Python-like language with AI-based 
 
 ## 📡 Connect With Me
 
+<table align="center">
+<tr>
+<td align="center"><a href="https://linkedin.com/in/gopikrishnna"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a></td>
+<td align="center"><a href="https://github.com/gopikrishnnamaringanti"><img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white" /></a></td>
+<td align="center"><a href="mailto:maringantigopikrishnna@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a></td>
+<td align="center"><a href="tel:+919866378633"><img src="https://img.shields.io/badge/Phone-0f2027?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a></td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
-
-<a href="https://linkedin.com/in/gopikrishnna">
-<img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://github.com/gopikrishnnamaringanti">
-<img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:maringantigopikrishnna@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-<a href="tel:+919866378633">
-<img src="https://img.shields.io/badge/Phone-0f2027?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-</a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=gopikrishnnamaringanti&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
