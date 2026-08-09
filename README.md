@@ -1,25 +1,26 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gopi%20Krishnna%20Maringanti&fontSize=38&fontColor=00F0FF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<!-- Animated wave header — deep space gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020111,50:191621,100:20002c&height=200&section=header&text=Gopi%20Krishnna%20Maringanti&fontSize=38&fontColor=FFA630&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=Building+with+Java+%2B+Spring+Boot+%2B+Angular;Exploring+Quantum-Classical+Hybrid+ML+Models;RAG+%7C+LLMs+%7C+LangChain+%7C+FAISS;Bridging+AI%2FML+%26+Quantum+Computing;Mentoring+100%2B+Trainees+%40+TCS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=800&color=FFA630&center=true&vCenter=true&width=750&lines=Building+with+Java+%2B+Spring+Boot+%2B+Angular;Exploring+Quantum-Classical+Hybrid+ML+Models;RAG+%7C+LLMs+%7C+LangChain+%7C+FAISS;Bridging+AI%2FML+%26+Quantum+Computing;Mentoring+100%2B+Trainees+%40+TCS" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Hyderabad,_India-0f2027?style=for-the-badge&logo=googlemaps&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/-TCS-0f2027?style=for-the-badge&logo=tata-consultancy-services&logoColor=00F0FF" />
-<a href="https://linkedin.com/in/gopikrishnna"><img src="https://img.shields.io/badge/-LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
-<a href="mailto:maringantigopikrishnna@gmail.com"><img src="https://img.shields.io/badge/-Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
+<img src="https://img.shields.io/badge/-Hyderabad,_India-0d0221?style=for-the-badge&logo=googlemaps&logoColor=B983FF" />
+<img src="https://img.shields.io/badge/-TCS-0d0221?style=for-the-badge&logo=tata-consultancy-services&logoColor=B983FF" />
+<a href="https://linkedin.com/in/gopikrishnna"><img src="https://img.shields.io/badge/-LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=B983FF" /></a>
+<a href="mailto:maringantigopikrishnna@gmail.com"><img src="https://img.shields.io/badge/-Email-0d0221?style=for-the-badge&logo=gmail&logoColor=B983FF" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
 
-## 🛸 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020111,50:191621,100:20002c&height=2&section=header" width="100%"/>
+
+## 🌌 About Me
 
 ```yaml
 engineer:
@@ -39,9 +40,10 @@ engineer:
 - 🎓 B.Tech CSE, VNR Vignana Jyothi Institute of Engineering and Technology — GPA 8.49/10
 - 🎶 When I'm not coding, I'm playing the flute
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
 
-## ⚡ Tech Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020111,50:191621,100:20002c&height=2&section=header" width="100%"/>
+
+## 🪐 Tech Arsenal
 
 <div align="center">
 
@@ -84,7 +86,7 @@ engineer:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020111,50:191621,100:20002c&height=2&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -133,22 +135,23 @@ Custom **Lexer, Parser & Interpreter** for a Python-like language with AI-based 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020111,50:191621,100:20002c&height=2&section=header" width="100%"/>
 
 ## 🏅 Certifications & Achievements
 
 <table align="center">
 <tr>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/Microsoft%20Certified-SQL%20AI%20Developer%20Associate%20(DP--800)-0f2027?style=for-the-badge&logo=microsoft&logoColor=00A4EF" /></td>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/Claude%20Certified-Developer%20Foundations%20(CCDV--F)-0f2027?style=for-the-badge&logo=anthropic&logoColor=D97757" /></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Microsoft%20Certified-SQL%20AI%20Developer%20Associate%20(DP--800)-0d0221?style=for-the-badge&logo=microsoft&logoColor=00A4EF" /></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Claude%20Certified-Developer%20Foundations%20(CCDV--F)-0d0221?style=for-the-badge&logo=anthropic&logoColor=D97757" /></td>
 </tr>
 <tr>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/NPTEL-IoT%20%7C%20Elite%20%2B%20Gold%20%7C%20Top%203%25-0f2027?style=for-the-badge&logo=googlescholar&logoColor=00F0FF" /></td>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/Smart%20Interviews-Smart%20Coder%20Gold-0f2027?style=for-the-badge&logo=codeforces&logoColor=00F0FF" /></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/NPTEL-IoT%20%7C%20Elite%20%2B%20Gold%20%7C%20Top%203%25-0d0221?style=for-the-badge&logo=googlescholar&logoColor=FFA630" /></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Smart%20Interviews-Smart%20Coder%20Gold-0d0221?style=for-the-badge&logo=codeforces&logoColor=FFA630" /></td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020111,50:191621,100:20002c&height=2&section=header" width="100%"/>
 
 ## 💼 Experience & Publications
 
@@ -180,34 +183,34 @@ B.Tech CSE, GPA 8.49/10
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020111,50:191621,100:20002c&height=2&section=header" width="100%"/>
 
 ## 🎯 Competitive Coding
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-324%2B%20Solved%20%7C%20Rating%201683-0f2027?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-<img src="https://img.shields.io/badge/CodeChef-3★%20%7C%20Rating%201609%20%7C%20177%2B%20Solved-0f2027?style=for-the-badge&logo=codechef&logoColor=5B4638" />
+<img src="https://img.shields.io/badge/LeetCode-324%2B%20Solved%20%7C%20Rating%201683-0d0221?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/CodeChef-3★%20%7C%20Rating%201609%20%7C%20177%2B%20Solved-0d0221?style=for-the-badge&logo=codechef&logoColor=5B4638" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020111,50:191621,100:20002c&height=2&section=header" width="100%"/>
 
-## 📡 Connect With Me
+## 🌠 Connect With Me
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://linkedin.com/in/gopikrishnna"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a></td>
-<td align="center"><a href="https://github.com/gopikrishnnamaringanti"><img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white" /></a></td>
-<td align="center"><a href="mailto:maringantigopikrishnna@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a></td>
-<td align="center"><a href="tel:+919866378633"><img src="https://img.shields.io/badge/Phone-0f2027?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a></td>
+<td align="center"><a href="https://linkedin.com/in/gopikrishnna"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a></td>
+<td align="center"><a href="https://github.com/gopikrishnnamaringanti"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=white" /></a></td>
+<td align="center"><a href="mailto:maringantigopikrishnna@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0221?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a></td>
+<td align="center"><a href="tel:+919866378633"><img src="https://img.shields.io/badge/Phone-0d0221?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a></td>
 </tr>
 </table>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=gopikrishnnamaringanti&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=gopikrishnnamaringanti&style=for-the-badge&color=B983FF&label=PROFILE+VIEWS" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20002c,50:191621,100:020111&height=120&section=footer" width="100%"/>
